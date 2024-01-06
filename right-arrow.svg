@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="11px" height="12px" viewBox="0 0 11 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-1164.000000, -3510.000000)" fill="#FFFFFF">
+            <g id="Group" transform="translate(855.000000, 3424.000000)">
+                <path d="M309,92.7071068 L309,90.7071068 L315.585786,90.7071068 L312.292893,87.4142136 L313.707107,86 L319.414214,91.7071068 L313.707107,97.4142136 L312.292893,96 L315.585786,92.7071068 L309,92.7071068 L309,92.7071068 Z" id="Icons/Arrow"></path>
+            </g>
+        </g>
+    </g>
+</svg>
